@@ -1,7 +1,5 @@
 <div>
-  <h1>Software engineer</h1>
-  <ul>
-    <li>Make softwares with PyQt5.</li>
+  Hello, I usually make some softwares with PyQt5 and make some Python scripts.
 </div>
 
 <div>

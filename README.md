@@ -1,5 +1,6 @@
 <div>
-  Hello, I usually make some softwares with PyQt5 and make some Python scripts.
+  Hello.<br/>
+  I usually make some softwares with PyQt5 and make some Python scripts.
 </div>
 
 <div>

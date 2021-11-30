@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h1>Skill</h1>
+  <h1>Core Skills</h1>
   <ul>
     <li>Python3</li>
     <li>PyQt5</li>

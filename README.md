@@ -1,5 +1,5 @@
 <div>
-  <p>Hello guys. Jung Gyu Yoon here. But you can call me James. That's my English name.</p>
+  <p>Hello guys.</p>
   
   <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   

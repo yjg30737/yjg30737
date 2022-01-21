@@ -3,7 +3,7 @@
   
   <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   
-  <p>I'm using <b>PyCharm</b> as IDE, <b>Windows 10</b> as OS.</p>
+  <p>I'm using <b>PyCharm</b> as IDE.
 </div>
 
 <div>

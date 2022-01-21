@@ -1,5 +1,5 @@
 <div>
-  <p>Hello guys.</p>
+  <p>Hello.</p>
   
   <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   

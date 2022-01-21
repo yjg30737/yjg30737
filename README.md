@@ -1,6 +1,9 @@
 <div>
   Hello.<br/>
-  I usually make some softwares with PyQt5 and make some Python scripts.
+  
+  I usually make softwares with PyQt5 and make Python scripts.
+  
+  I'm currently using <b>Windows 10</b>, using <b>PyCharm</b> as IDE.
 </div>
 
 <div>

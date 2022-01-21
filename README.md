@@ -1,9 +1,9 @@
 <div>
-  Hello.<br/>
+  <p>Hello guys.</p>
   
-  I usually make softwares with PyQt5 and make Python scripts.
+  <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   
-  I'm currently using <b>Windows 10</b>, using <b>PyCharm</b> as IDE.
+  <p>I'm using <b>PyCharm</b> as IDE, <b>Windows 10</b> as OS.</p>
 </div>
 
 <div>

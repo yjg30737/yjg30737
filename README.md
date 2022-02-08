@@ -3,6 +3,8 @@
   
   <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   
+  <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
+  
   <p>I'm using <b>PyCharm</b>.
 </div>
 

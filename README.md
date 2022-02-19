@@ -7,7 +7,7 @@
   
   <p>I'm using <b>PyCharm</b>.
     
-  <p>When i code PyQt5 scripts i camel-cased directly pyqt5-related code only such as QLabel.</p>
+  <p>When i code PyQt5 scripts i camel-cased directly pyqt5-related code only such as QLabel class variable or method which uses the pyqt5 related type variable.</p>
  
   <p>If variable is not directly related to PyQt5 such as int, str type variable i won't do it.</p> 
   

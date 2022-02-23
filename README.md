@@ -6,14 +6,6 @@
   <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
   
   <p>I'm using <b>PyCharm</b>.
-    
-  <p>When i code PyQt5 scripts i camel-cased directly pyqt5-related code only such as QLabel class variable or method which uses the pyqt5 related type variable.</p>
- 
-  <p>If variable is not directly related to PyQt5 such as int, str type variable i won't do it.</p> 
-  
-  <p>This is little snippet of information about me to let you know that i try not to be arbitrary.</p>
-  
-  <p>Yeah, that is so confusing. oh well.</p>
 </div>
 
 <div>

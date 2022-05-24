@@ -3,7 +3,7 @@
   
   <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   
-  <p>I don't use PyQt6 because of compatibility issue.</p> 
+  <p>I don't use PyQt6 simply because of compatibility.</p> 
   
   <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
   

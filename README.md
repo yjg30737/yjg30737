@@ -3,15 +3,7 @@
   
   <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
   
-  <p>I don't use PyQt6 simply because of compatibility.</p> 
-  
   <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
-  
-  <p>I'm working on very easy peasy pyqt5 based gui widget toolkits.</p>
-  
-  <p>Python is easy as breathing and one of the most famous language in the world so this will turn out good.</p>
-  
-  <p>I will start Youtube channel in the near future.</p> 
   
   <p>I'm using PyCharm, Python 3.7, Windows 10.</p>
 </div>

@@ -5,7 +5,7 @@
   
   <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
   
-  <p>I'm using PyCharm, Python 3.7, Windows 10.</p>
+  <p>I'm using PyCharm, Python 3.7, Windows 11.</p>
 </div>
 
 <div>

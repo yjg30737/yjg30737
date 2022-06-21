@@ -13,7 +13,7 @@
     
   <p>I will use it when i have to make the very or semi-simple desktop-mobile responsive application or mobile-only application, even though Flutter has a performance issue with iOS and obviously it is.. new.</p>
   
-  <p>Don't worry; I will keep using PyQt since it supports a lot of third party library, easy enough to use, performance is fine.
+  <p>Don't worry; I will keep using PyQt since it supports a lot of third party libraries, easy enough to use, performance is fine.</p>
   
   <p>In conclusion: </p>
   <ul>

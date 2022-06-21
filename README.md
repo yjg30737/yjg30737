@@ -9,7 +9,7 @@
   
   <p>== 2022/06/21 ==</p>
   
-  <p>I recently started Flutter. It works fine and design is great. Especially unifying Desktop/Web/Mobile scheme seems to be really ambitious to me.</p>
+  <p>I recently started Flutter. It works fine and design is great(actually it is some of the best i've ever seen). Especially unifying Desktop/Web/Mobile scheme seems to be really ambitious to me.</p>
     
   <p>I will use it when i have to make the very or semi-simple desktop-mobile responsive application or mobile-only application, even though Flutter has a performance issue with iOS and obviously it is.. new.</p>
   

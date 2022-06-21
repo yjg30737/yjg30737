@@ -6,6 +6,22 @@
   <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
   
   <p>I'm using PyCharm, Python 3.7, Windows 10.</p>
+  
+  <p>== 2022/06/21 ==</p>
+  
+  <p>I recently started Flutter. It works fine and design is great. Especially unifying Desktop/Web/Mobile scheme seems to be really ambitious to me.</p>
+    
+  <p>I will use it when i have to make the very or semi-simple desktop-mobile responsive application or mobile-only application, even though Flutter has a performance issue with iOS and obviously it is.. new.</p>
+  
+  <p>Don't worry; I will keep using PyQt since it supports a lot of third party library, easy enough to use, performance is fine.
+  
+  <p>In conclusion: </p>
+  <ul>
+    <li>Desktop app: PyQt5
+    <li>Desktop-mobile app: Flutter
+    <li>Mobile app: Flutter
+    <li>Mobile app which performance has to be fine in any platform: React Native
+  </ul>
 </div>
 
 <div>

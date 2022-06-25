@@ -22,10 +22,6 @@
     <li>Mobile app: Flutter
     <li>Mobile app which performance has to be fine in any platform: React Native - Maybe i won't use this.
   </ul>
-  
-  <h5>== 2022/06/25 ==</h5>
-  
-  <p>I find that <a href="https://bugreports.qt.io/browse/QTBUG-55401">this bug</a> is really a problem. I spend almost 2 days to solve this but i can't find any solution. PySide6 seems to solve the problem, but not quite.</p>
 </div>
 
 <div>

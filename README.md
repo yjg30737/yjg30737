@@ -25,17 +25,7 @@
   
   <h5>== 2022/06/25 ==</h5>
   
-  <p>PyQt6/PySide6 have advantages that PyQt5 does not have.</p>
-  
-  <p>PyQt6/PySide6 do high DPI supporting by default unlike PyQt5.</p>
-  
-  <p>For PySide6 only, other advantage is that they "somewhat" seems to have solved <a href="https://bugreports.qt.io/browse/QTBUG-55401">this bug</a>.</p>
-  
-  <p><b>But i can't use the PySide6 simply by those reasons. There are many 3rd party libraries which has only compatible with qt5 or below.</b></p>
-  
-  <p><b>Also, higher version doesn't mean it would be good.</b></p> 
-    
-  <p>Anyways, my 2 days research to try to solve the bug above is over and i cannot find any solution to solve it. I guess i should live with it...</p>
+  <p>I find that <a href="https://bugreports.qt.io/browse/QTBUG-55401">this bug</a> is really a problem. I spend almost 2 days to solve this but i can't find any solution. PySide6 seems to solve the problem, but not quite.</p>
 </div>
 
 <div>

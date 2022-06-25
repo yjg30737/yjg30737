@@ -7,7 +7,7 @@
   
   <p>I'm using PyCharm, Python 3.7, Windows 10.</p>
   
-  <h3>== 2022/06/21 ==</h3>
+  <h5>== 2022/06/21 ==</h5>
   
   <p>I recently started Flutter. It works fine and design is great(actually it is some of the best i've ever seen). Especially unifying Desktop/Web/Mobile scheme seems to be really ambitious to me.</p>
     
@@ -23,17 +23,17 @@
     <li>Mobile app which performance has to be fine in any platform: React Native - Maybe i won't use this.
   </ul>
   
-  <h3>== 2022/06/25 ==</h3>
+  <h5>== 2022/06/25 ==</h5>
   
-  <p>PyQt6/PySide6 has advantages that PyQt5 does not have.</p>
+  <p>PyQt6/PySide6 have advantages that PyQt5 does not have.</p>
   
   <p>PyQt6/PySide6 do high DPI supporting by default unlike PyQt5.</p>
   
   <p>For PySide6 only, other advantage is that they "somewhat" seems to have solved <a href="https://bugreports.qt.io/browse/QTBUG-55401">this bug</a>.</p>
   
-  <p>But i can't use the PySide6 simply by those reasons. There are many 3rd party libraries which has only compatible with qt5 or below.</p>
+  <p><b>But i can't use the PySide6 simply by those reasons. There are many 3rd party libraries which has only compatible with qt5 or below.</b></p>
   
-  <p>Also, higher version doesn't mean it would be good.</p> 
+  <p><b>Also, higher version doesn't mean it would be good.</b></p> 
     
   <p>Anyways, my 2 days research to try to solve the bug above is over and i cannot find any solution to solve it. I guess i should live with it...</p>
 </div>

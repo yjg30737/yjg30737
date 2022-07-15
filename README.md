@@ -27,24 +27,10 @@
 <div>
   <h1>Core Skills</h1>
   <ul>
-    <li>Desktop App</li>
-    <ul>
-      <li>Python</li>
-      <li>PyQt</li>
-      <li>PySide</li>
-    </ul>
-    <li>Web</li>
-    <ul>
-      <li>HTML/CSS</li>
-      <li>Bootstrap</li>
-      <li>Jekyll</li>
-      <li>JavaScript</li>
-      <li>jQuery</li>
-    </ul>
-    <li>Mobile App</li>
-    <ul>
-      <li>Flutter</li>
-    </ul>
+    <li>Desktop App: Python, PyQt, PySide
+    <li>Web: HTML/CSS, Bootstrap, Jekyll, JavaScript, jQuery
+    <li>Mobile App: Flutter
+    <li>Game: Unity
   </ul>
 </div>
  

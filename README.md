@@ -27,9 +27,28 @@
 <div>
   <h1>Core Skills</h1>
   <ul>
-    <li>Python</li>
-    <li>PyQt</li>
-    <li>PySide</li>
+    <li>Desktop App</li>
+    <ul>
+      <li>Python</li>
+      <li>PyQt</li>
+      <li>PySide</li>
+    </ul>
+  </ul>
+  <ul>
+    <li>Web</li>
+    <ul>
+      <li>HTML/CSS</li>
+      <li>Bootstrap</li>
+      <li>Jekyll</li>
+      <li>JavaScript</li>
+      <li>jQuery</li>
+    </ul>
+  <ul>
+    <li>Mobile App</li>
+    <ul>
+      <li>Flutter</li>
+    </ul>
+  </ul>
 </div>
  
 <div align=center>

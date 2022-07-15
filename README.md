@@ -33,8 +33,6 @@
       <li>PyQt</li>
       <li>PySide</li>
     </ul>
-  </ul>
-  <ul>
     <li>Web</li>
     <ul>
       <li>HTML/CSS</li>
@@ -43,7 +41,6 @@
       <li>JavaScript</li>
       <li>jQuery</li>
     </ul>
-  <ul>
     <li>Mobile App</li>
     <ul>
       <li>Flutter</li>

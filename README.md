@@ -27,8 +27,9 @@
 <div>
   <h1>Core Skills</h1>
   <ul>
-    <li>Python3</li>
-    <li>PyQt5</li>
+    <li>Python</li>
+    <li>PyQt</li>
+    <li>PySide</li>
 </div>
  
 <div align=center>

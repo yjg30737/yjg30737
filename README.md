@@ -17,7 +17,7 @@
   
   <p>In conclusion: </p>
   <ul>
-    <li>Desktop app: PyQt5
+    <li>Desktop app: PyQt/PySide
     <li>Desktop-mobile app: Flutter
     <li>Mobile app: Flutter
     <li>Mobile app which performance has to be fine in any platform: React Native - Maybe i won't use this.

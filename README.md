@@ -1,11 +1,11 @@
 <div>
   <p>Hello.</p>
   
-  <p>I'm currently working on making <b>PyQt5</b> softwares and <b>Python</b> scripts.</p>
+  <p>I'm currently working on making <b>PyQt/PySide</b> softwares and <b>Python</b> scripts.</p>
   
-  <p>I've started PyQt5 in January 2021 and i've been hooked on that ever since.</p>
+  <p>I've started PyQt5 in January 2021 and i've been hooked on desktop software development with Python ever since.</p>
   
-  <p>I'm using PyCharm, Python 3.7, Windows 10.</p>
+  <p>I'm using PyCharm, Python 3.7, Windows 11.</p>
   
   <h5>== 2022/06/21 ==</h5>
   
@@ -17,10 +17,12 @@
   
   <p>In conclusion: </p>
   <ul>
-    <li>Desktop app: PyQt/PySide
+    <li>Desktop/Embedded app: PyQt/PySide
     <li>Desktop-mobile app: Flutter
     <li>Mobile app: Flutter
     <li>Mobile app which performance has to be fine in any platform: React Native - Maybe i won't use this.
+    <li>Web app: Electron
+    <li>Windows App SDK/WPF - ???
   </ul>
 </div>
 

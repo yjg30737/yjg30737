@@ -1,7 +1,7 @@
 <div>
   <p>Hello.</p>
   
-  <p>I'm currently working as a back-end developer.</p>
+  <p>I work as a <b>back-end</b> developer.</p>
   
   <p>So, as you can guess, i am very busy on weekdays, sorry to say.</p>
   

@@ -1,7 +1,11 @@
 <div>
   <p>Hello.</p>
   
-  <p>I'm currently working on making <b>PyQt/PySide</b> softwares and <b>Python</b> scripts.</p>
+  <p>I'm currently working at a company as a back-end developer.</p>
+  
+  <p>So, as you can guess, i am very busy on weekdays, sorry to say.</p>
+  
+  <p>In my spare time(weekend or holiday or etc), i'm "trying to" work on making <b>PyQt/PySide</b> softwares and <b>Python</b> scripts.</p>
   
   <p>I've started PyQt5 in January 2021 and i've been hooked on desktop software development with Python ever since.</p>
   
@@ -30,9 +34,11 @@
   <h1>Core Skills</h1>
   <ul>
     <li>Desktop App: Python, PyQt, PySide
-    <li>Web: HTML/CSS, Bootstrap, Jekyll, JavaScript, jQuery
+    <li>Web: NodeJS Express, TypeScript, JavaScript, jQuery, HTML/CSS, Bootstrap, Jekyll 
     <li>Mobile App: Flutter
+    <li>Database: MySQL
     <li>Game: Unity
+    <li>etc: Linux
   </ul>
 </div>
  

@@ -28,6 +28,11 @@
     <li>Web app: Electron
     <li>Windows App SDK/WPF - ???
   </ul>
+  
+  <h5>== 2022/09/04 ==</h5>
+  <p>I find that <b>PySide6 can turn png icon in the button into svg icon</b> automatically.</p>
+  <p>Correct me if i'm wrong.</p>
+  <p>Besides, PySide6 is not compatible with multiple inheritance somehow.</p>
 </div>
 
 <div>

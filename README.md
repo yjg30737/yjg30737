@@ -34,7 +34,7 @@
   <p>Correct me if i'm wrong.</p>
   
   <h5>== 2022/09/09 ==</h5>
-  <p>I found new one! In Windows 11, if you give svg icon to QPushButton, QPushButton show the svg icon with good quality! not like bad quality svg icon which defeats the whole purpose to have the svg icon.</p>
+  <p>I found new one! In Windows 11, if you give svg icon to QPushButton, QPushButton shows the svg icon with good quality! not like bad quality svg icon which defeats the whole purpose to have the svg icon.</p>
   <p>Get Windows 11 right away, guys!</p>
 </div>
 

@@ -41,7 +41,7 @@
   <h1>Core Skills</h1>
   <ul>
     <li>Desktop App: Python, PyQt, PySide
-    <li>Web: NodeJS Express, TypeScript, JavaScript, jQuery, HTML/CSS, Bootstrap, Jekyll 
+    <li>Web: NodeJS Express, TypeScript, nestJS, JavaScript, jQuery, HTML/CSS, Bootstrap, Jekyll 
     <li>Mobile App: Flutter
     <li>Database: MySQL
     <li>Game: Unity

@@ -3,7 +3,7 @@
   
   <p>I work as a <b>back-end</b> developer on weekdays.</p>
   
-  <p>So, as you can guess, i am very busy on weekdays, sorry to say.</p>
+  <p>So, as you can guess, i am kind of busy on weekdays, sorry to say.</p>
   
   <p>In my spare time(weekend or holiday or etc), i'm "trying to" work on making <b>PyQt/PySide</b> softwares and <b>Python</b> scripts.</p>
   

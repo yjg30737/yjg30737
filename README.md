@@ -25,7 +25,6 @@
     <li>Desktop-mobile app: Flutter
     <li>Mobile app: Flutter
     <li>Mobile app which performance has to be fine in any platform: React Native - Maybe i won't use this.
-    <li>Web app: Electron
     <li>Windows App SDK/WPF - ???
   </ul>
   

@@ -9,7 +9,7 @@
   
   <p>I've started PyQt5 in January 2021 and i've been hooked on desktop software development with Python ever since.</p>
   
-  <p>I'm using PyCharm, Python 3.7, Windows 11.</p>
+  <p>I'm using PyCharm, Python 3.7/3.10, Windows 11.</p>
   
   <h5>== 2022/06/21 ==</h5>
   

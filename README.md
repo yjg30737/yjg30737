@@ -37,7 +37,7 @@
   
   <h5>== 2022/11/12 ==</h5>
   <p>I'll start the Youtube soon enough. I'll make a bunch of videos about programming mainly PyQt. Here's the <a href="https://www.youtube.com/@gitgudcoding">channel</a>, which doesn't have any contents yet.</p>
-  <p>Writing the code and reading the script at the same time naturally are far more harder than i think, it will take a while.</p>
+  <p>Writing the code and reading the script at the same time naturally is far more harder than i think, it will take a while.</p>
 </div>
 
 <div>

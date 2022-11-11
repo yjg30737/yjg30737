@@ -1,4 +1,4 @@
-<div>
+<div> 
   <p>Hello.</p>
   
   <p>I work as a <b>back-end</b> developer on weekdays.</p>
@@ -34,6 +34,10 @@
   
   <h5>== 2022/09/09 ==</h5>
   <p>I found new one! In Windows 11, if you give svg icon to QPushButton, QPushButton shows the svg icon with good quality! not like bad quality svg icon which defeats the whole purpose to have the svg icon.</p>
+  
+  <h5>== 2022/11/12 ==</h5>
+  <p>I'll start the Youtube soon enough. I'll make a bunch of videos about programming mainly PyQt. Here's the <a href="https://www.youtube.com/@gitgudcoding">channel</a>, which doesn't have any contents yet.</p>
+  <p>Writing the code and reading the script at the same time naturally are far more harder than i think, it will take a while.</p>
 </div>
 
 <div>

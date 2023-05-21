@@ -1,4 +1,4 @@
-<h2>💻 AI enthusiast</h2>
+<h2>💻 Python, AI enthusiast</h2>
  
 <div align=center>
   

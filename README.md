@@ -1,8 +1,10 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<p>I'm currently working as server-side developer, but i'm also working at AI-related PyQt GUI software as side project(<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a>) in my spare time.</p> 
+<p>I'm currently working as server-side developer, but i'm also working at <b>AI-related PyQt & PySide GUI software</b> as side project(<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a>) in my spare time.</p> 
 
-<p>Join the <a href="https://discord.gg/cHekprskVE">pyqt-openai Discord channel</a> if you are interested in PyQt and AI at the same time. You can ask anything you want related to latest AI technology and PyQt. Also, i will gladly share get latest article with you all :)</p>
+Python based GUI toolkit such as PyQt and PySide has real potential since a lot of packages used for AI such as PyTorch, Tensorflow, openai, huggingface uses Python. You can make those packages to GUI easily. So it is good to make at least one of your personal chatbot with Python GUI software, what i'm doing is making my version of it.
+
+<p>Join the <a href="https://discord.gg/cHekprskVE">pyqt-openai Discord channel</a> if you are interested in <b>PyQt and AI</b> at the same time. You can ask anything you want related to latest AI technology and PyQt. Also, i will gladly share get latest article with you all :)</p>
 
 <div align=center>
   

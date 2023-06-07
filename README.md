@@ -1,8 +1,8 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<h3>I'm currently working as server-side developer, but i'm also working at AI-related PyQt GUI software as side project(<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a>) in my spare time.</h3> 
+<p>I'm currently working as server-side developer, but i'm also working at AI-related PyQt GUI software as side project(<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a>) in my spare time.</p> 
 
-<h3>Join the <a href="https://discord.gg/cHekprskVE">pyqt-openai Discord channel</a> if you are interested in PyQt and AI at the same time. You can ask anything you want related to latest AI technology and PyQt. Also, i will gladly share get latest article with you all :)</h3>
+<p>Join the <a href="https://discord.gg/cHekprskVE">pyqt-openai Discord channel</a> if you are interested in PyQt and AI at the same time. You can ask anything you want related to latest AI technology and PyQt. Also, i will gladly share get latest article with you all :)</p>
 
 <div align=center>
   

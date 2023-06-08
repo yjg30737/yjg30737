@@ -1,10 +1,12 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<p>I'm currently working as server-side developer, but i'm also working at <b>AI-related PyQt & PySide GUI software</b> as side project(<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a>) in my spare time.</p> 
+<p><b>Hello guys 👋 yjg30737 here</b></p>
 
-Python based GUI toolkit such as PyQt and PySide has real potential since a lot of packages used for AI such as PyTorch, Tensorflow, openai, huggingface uses Python. You can make those packages to GUI easily. So it is good to make at least one of your personal chatbot with Python GUI software, what i'm doing is making my version of it.
+<p>I currently work as a server-side developer, but in my spare time, I'm also involved in a side project called <b>"<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a>," which focuses on AI-related PyQt and PySide GUI software</b>.</p> 
 
-<p>Join the <a href="https://discord.gg/cHekprskVE">pyqt-openai Discord channel</a> if you are interested in <b>PyQt and AI</b> at the same time. You can ask anything you want related to latest AI technology and PyQt. Also, i will gladly share get latest article with you all :)</p>
+Python-based GUI toolkits like PyQt and PySide have tremendous potential, especially since many AI packages such as PyTorch, TensorFlow, OpenAI, and Hugging Face utilize Python. With these toolkits, you can easily create GUIs for those packages. Personally, I find it enjoyable to create my own version of a chatbot using Python GUI software.
+
+If you're interested in both PyQt and AI, feel free to join the <a href="https://discord.gg/cHekprskVE">pyqt-openai Discord channel</a>. You can ask any questions related to the latest AI technology and PyQt. Additionally, I'll be glad to share the latest articles with all of you 🙂.
 
 <div align=center>
   

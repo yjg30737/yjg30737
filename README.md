@@ -11,6 +11,9 @@ If you're interested in both PyQt and AI, feel free to join the <a href="https:/
 Also, if you would like to support any projects i'm in, you can click the button below to make a donation. Your contribution will greatly assist various projects!
 
 <a href="https://www.buymeacoffee.com/yjg30737" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://paypal.me/yjg30737">
+  <img src="https://github.com/yjg30737/yjg30737/assets/55078043/3366b496-3e1e-491c-841e-19871da55c40" alt="Donate with PayPal" style="height: 60px; width: 170px" />
+</a>
 
 <hr>
 

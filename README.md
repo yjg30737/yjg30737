@@ -8,6 +8,10 @@ Python-based GUI toolkits like PyQt and PySide have tremendous potential, especi
 
 If you're interested in both PyQt and AI, feel free to join the <a href="https://discord.gg/cHekprskVE">pyqt-ai Discord channel</a>. You can ask any questions related to the latest AI technology and PyQt. Additionally, I'll be glad to share the latest articles with all of you 🙂.
 
+Also, if you would like to support any projects i'm in, you can click the button below to make a donation. Your contribution will greatly assist various projects!
+
+<a href="https://www.buymeacoffee.com/yjg30737" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <hr>
 
 <div align=center>

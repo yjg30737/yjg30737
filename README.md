@@ -1,6 +1,6 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<p><b>Hello guys 👋 **WizMiner** here</b></p>
+<p><b>Hello guys 👋 WizMiner here</b></p>
 
 <p>I currently work as a server-side developer, but in my spare time, I'm working on the side project such as my beloved <b>"<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a> (a.k.a. VividNode)," open-source AI chatbot for everyone</b>.</p>
 

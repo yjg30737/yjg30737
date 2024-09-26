@@ -1,12 +1,12 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<p><b>Hello guys 👋 WizMiner here</b></p>
+<p><b>Hello guys 👋 WizMiner here, creator of "<a href="https://github.com/yjg30737/pyqt-openai">VividNode(pyqt-openai)</a>."</b></p>
 
-<p>I currently work as a server-side developer, but in my spare time, I'm working on the side project such as my beloved <b>"<a href="https://github.com/yjg30737/pyqt-openai">pyqt-openai</a> (a.k.a. VividNode)," open-source AI chatbot for everyone</b>.</p>
+<p>I currently work as a server-side developer, but in my spare time, I'm working on the side project.</p>
 
-Python-based GUI toolkits like PyQt and PySide have tremendous potential, especially since many AI packages such as PyTorch, TensorFlow, OpenAI, and Hugging Face utilize Python. With these toolkits, you can easily create GUIs for those packages. Personally, I find it enjoyable to create my own version of a chatbot using Python GUI software.
+Python-based GUI toolkits like PyQt and PySide have tremendous potential, especially since many AI packages such as PyTorch, TensorFlow, OpenAI, and Hugging Face utilize Python. With these toolkits, you can easily create GUIs for those packages. Personally, I find it enjoyable to create my own version of a chatbot using Python GUI software. Also, i have a plan about implementing AI embedded software into device such as drone or Raspberry Pi.
 
-If you're interested in both PyQt and AI, feel free to join the <a href="https://discord.gg/cHekprskVE">pyqt-ai Discord channel</a>. You can ask any questions related to the latest AI technology and PyQt. Additionally, I'll be glad to share the latest articles with all of you 🙂.
+If you're interested in my project or both Qt for Python and AI, feel free to join the <a href="https://discord.gg/cHekprskVE">VividNode Discord channel</a>. VividNode is one of the main epitome of how Qt project can be used for AI. I'll be glad to share the latest articles with all of you 🙂.
 
 Also, if you would like to support any projects i'm in, you can click the button below to make a donation. Your contribution will greatly assist various projects!
 

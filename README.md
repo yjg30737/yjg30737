@@ -2,7 +2,7 @@
 
 <p><b>Hello guys 👋 WizMiner here, creator of "<a href="https://github.com/yjg30737/pyqt-openai">VividNode(pyqt-openai)</a>."</b></p>
 
-I'm a backend developer who studied business administration but developed an interest in computer science. He studied theory at school and coding at home,
+I'm a backend developer who studied business administration but developed an interest in computer science. I studied theory at school and coding at home,
 starting as a newbie and eventually working his way up to project manager as a founding member.
 Like the ancient Greek philosophers, I believe wisdom comes from leisure!
 I believe that cutting-edge IT technology can make human life more comfortable,

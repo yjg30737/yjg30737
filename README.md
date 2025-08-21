@@ -2,11 +2,29 @@
 
 <p><b>Hello guys 👋 WizMiner here, creator of "<a href="https://github.com/yjg30737/pyqt-openai">VividNode(pyqt-openai)</a>."</b></p>
 
-<p>I currently work as a server-side developer, but in my spare time, I'm working on the side project.</p>
+I'm a backend developer who studied business administration but developed an interest in computer science. He studied theory at school and coding at home,
+starting as a newbie and eventually working his way up to project manager as a founding member.
+Like the ancient Greek philosophers, I believe wisdom comes from leisure!
+I believe that cutting-edge IT technology can make human life more comfortable,
+and to create a society filled with wise people, I strive to work more to work less.
 
-Python-based GUI toolkits like PyQt and PySide have tremendous potential, especially since many AI packages such as PyTorch, TensorFlow, OpenAI, and Hugging Face utilize Python. With these toolkits, you can easily create GUIs for those packages. Personally, I find it enjoyable to create my own version of a chatbot using Python GUI software. Also, i have a plan about implementing AI embedded software into device such as drone or Raspberry Pi.
+If you're interested in VividNode, feel free to join the <a href="https://discord.gg/cHekprskVE">VividNode Discord channel</a>. VividNode is one of the main epitome of how PyQt project can be used for AI. I'll be glad to share the latest articles with all of you 🙂.
 
-If you're interested in my project or both Qt for Python and AI, feel free to join the <a href="https://discord.gg/cHekprskVE">VividNode Discord channel</a>. VividNode is one of the main epitome of how Qt project can be used for AI. I'll be glad to share the latest articles with all of you 🙂.
+<div align=center>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjg30737&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yjg30737&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yjg30737&theme=default)
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yjg30737&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yjg30737&theme=default)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yjg30737)](https://git.io/streak-stats)
+  
+</div>
+<hr>
+<div align=center>
 
 Also, if you would like to support any projects i'm in, you can click the button below to make a donation. Your contribution will greatly assist various projects!
 

@@ -1,6 +1,6 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<p><b>Hello guys 👋 WizMiner here, creator of "<a href="https://github.com/yjg30737/pyqt-openai">VividNode(pyqt-openai)</a>."</b></p>
+<p><b>Hello guys 👋 CMJ here, creator of "<a href="https://github.com/yjg30737/pyqt-openai">VividNode(pyqt-openai)</a>."</b></p>
 
 I'm a backend developer who studied business administration but developed an interest in computer science. I studied theory at school and coding at home,
 starting as a newbie and eventually working his way up to project manager as a founding member.
@@ -8,7 +8,9 @@ Like the ancient Greek philosophers, I believe wisdom comes from leisure!
 I believe that cutting-edge IT technology can make human life more comfortable,
 and to create a society filled with wise people, I strive to work more to work less.
 
-If you're interested in VividNode, feel free to join the <a href="https://discord.gg/cHekprskVE">VividNode Discord channel</a>. VividNode is one of the main epitome of how PyQt project can be used for AI. I'll be glad to share the latest articles with all of you 🙂.
+If you're interested in VividNode, feel free to join the <a href="https://discord.gg/cHekprskVE">VividNode Discord channel</a>. VividNode is one of the main epitome of how PyQt project can be used for AI. I'll be glad to share the latest articles with all of you 🙂. 
+
+**I will share my thought with you guys soon, about our future and a way of life.**
 
 <div align=center>
   

@@ -1,8 +1,6 @@
 <h2>💻 Python, AI enthusiast</h2>
 
-<p><b>Hello guys 👋 CMJ here, creator of "<a href="https://github.com/yjg30737/pyqt-openai">VividNode(pyqt-openai)</a>."</b></p>
-
-I'm a backend developer who studied business administration but developed an interest in computer science. I studied theory at school and coding at home, starting as a newbie and eventually working his way up to project manager. Like the philosophers of ancient Greece, I believe that wisdom grows from having room to breathe. I once vaguely believed that cutting-edge technology would simply make human life more convenient, but I have since come to recognize the risks inherent in it as well.
+I was a backend developer who studied business administration but developed an interest in computer science. I studied theory at school and coding at home, starting as a newbie and eventually working his way up to project manager. Like the philosophers of ancient Greece, I believe that wisdom grows from having room to breathe. I once vaguely believed that cutting-edge technology would simply make human life more convenient, but I have since come to recognize the risks inherent in it as well.
 
 It is natural for companies to pursue profit. I, however, reflect in order to survive. A life with enough, a life of deep immersion - that is enough for me. I need money only until I have secured the time to live such a life.
 

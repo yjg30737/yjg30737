@@ -6,6 +6,8 @@ It is natural for companies to pursue profit. I, however, reflect in order to su
 
 **I will share my thought with you guys soon, about our future and a way of life.**
 
+This website holds my past. Feel free to explore.
+
 <div align=center>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yjg30737&theme=default)

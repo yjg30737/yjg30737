@@ -1,4 +1,4 @@
-<h2>💻 Python, AI enthusiast</h2>
+<h2>An Exodist, one who seeks a life shaped by controllable technology, and a life free from interference by the system.</h2>
 
 I was a backend developer who studied business administration but developed an interest in computer science. I studied theory at school and coding at home, starting as a newbie and eventually working his way up to project manager. Like the philosophers of ancient Greece, I believe that wisdom grows from having room to breathe. I once vaguely believed that cutting-edge technology would simply make human life more convenient, but I have since come to recognize the risks inherent in it as well.
 

@@ -1,12 +1,16 @@
-<h2>An Exodist, one who seeks a life shaped by controllable technology, and a life free from interference by the system.</h2>
+<h2>The First Exodist, one who seeks a life shaped by controllable technology, and a life free from interference by the system.</h2>
 
 I was a backend developer who studied business administration but developed an interest in computer science. I studied theory at school and coding at home, starting as a newbie and eventually working his way up to project manager. Like the philosophers of ancient Greece, I believe that wisdom grows from having room to breathe. I once vaguely believed that cutting-edge technology would simply make human life more convenient, but I have since come to recognize the risks inherent in it as well.
 
 It is natural for companies to pursue profit. I, however, reflect in order to survive. A life with enough, a life of deep immersion - that is enough for me. I need money only until I have secured the time to live such a life.
 
-**I will share my thought with you guys soon, about our future and a way of life.**
-
 This website holds my past. Feel free to explore.
+
+---
+
+**Enough technology to live on my own. No one to bother me. No need to worry about what the future holds. Just let me drift like the wind, dude.**
+
+**https://entropyexodus.com**
 
 <div align=center>
   
